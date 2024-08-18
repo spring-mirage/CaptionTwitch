@@ -10,7 +10,7 @@ Pon subtitulos en tiempo real a tus directos o videos usando la API de Google Sp
 
 | Parameter | Type     | Description                |
 | :-------- | :------- | :------------------------- |
-| `api_key` | `string` | **Required**. Your Google API key |
+| `apiKey` | `string` | **Required**. Your Google API key |
 
 
 
