@@ -48,7 +48,7 @@ function startRecognition() {
 // Función para traducir el texto usando la API de Google
 async function translateText(text, targetLang, elementId) {
     console.log(`Traduciendo "${text}" a ${targetLang}`);
-    const apiKey = 'AIzaSyCGVBvPaLSWzCr7_gta--vjKgtrIw_pX8g'; // Asegúrate de usar una API Key válida
+    const apiKey = 'AIzaSyBUZ9yIk6FLGgPgnjCFMr4n82nnrVGtGwg'; // Asegúrate de usar una API Key válida
     const url = `https://translation.googleapis.com/language/translate/v2?key=${apiKey}`;
     
     const response = await fetch(url, {
